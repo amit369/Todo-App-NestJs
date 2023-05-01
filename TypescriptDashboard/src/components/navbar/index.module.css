@@ -1,0 +1,12 @@
+.nav_container{
+    padding: 4px 0 ;
+    border: 1px solid #dddddd;
+     box-shadow : 0 0 15px 5px purple   ; 
+    color: white;
+    background-color: lightpink;
+    
+    /* box-shadow: rgba(0, 0, 0, 0.5) 0px 5px 10px;
+    color : rgb(82, 171, 240);
+    background: blanchedalmond;
+    font-family: 'Texturina', serif; */
+}
